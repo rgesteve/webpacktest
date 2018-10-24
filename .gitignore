@@ -77,3 +77,6 @@ typings/
 
 # Emacs backup files
 *~
+
+# Webpack output
+dist/

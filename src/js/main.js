@@ -1,4 +1,5 @@
 $(function(){
+  console.log("Trying out webpack");
   var $readMoreLink = $(".read-more");
 
   $readMoreLink.on("click", function(e){
