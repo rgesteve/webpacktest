@@ -1,4 +1,5 @@
-/*
+import * as $ from 'jquery';
+
 $(function(){
   console.log("Trying out webpack and typescript");
   let $readMoreLink = $(".read-more");
@@ -9,9 +10,3 @@ $(function(){
     $(this).remove();
   });
 });
-*/
-
-(function(){
-  console.log("Trying out webpack and typescript -- from self-calling function");
-})();
-
