@@ -12,8 +12,12 @@
   "author": "R. G. Esteves",
   "license": "ISC",
   "devDependencies": {
+    "@types/jquery": "^3.3.22",
+    "@types/node": "^10.12.0",
+    "awesome-typescript-loader": "^5.2.1",
     "css-loader": "^1.0.0",
     "style-loader": "^0.23.1",
+    "typescript": "^3.1.3",
     "url-loader": "^1.1.2",
     "webpack": "^4.22.0",
     "webpack-cli": "^3.1.2"
