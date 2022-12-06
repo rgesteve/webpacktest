@@ -20,7 +20,7 @@
     "rimraf": "^2.6.3"
   },
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "jquery": "^3.4.0",
     "lightbox2": "^2.10.0",
     "slick-carousel": "^1.8.1"
